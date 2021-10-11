@@ -31,7 +31,7 @@ function App() {
 
   return (
     <Router>
-      <div className="app" style={{ backgroundImage: "url(./bg.jpg)" }}>
+      <div className="app" style={{ backgroundImage: "url(./whitebg.jpg)" }}>
         <Header />
 
         <Switch>
