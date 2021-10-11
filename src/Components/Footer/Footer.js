@@ -5,7 +5,7 @@ export default () => {
     }
     return (
         <div style={styles}>
-             Made with love by Shubham Shrivastava
+             Made with ❤️ by Shubham Shrivastava
         </div>
     )
 }
